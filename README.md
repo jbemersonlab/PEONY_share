@@ -9,7 +9,7 @@ To complete the present update, we compiled new virome datasets from our own rec
 
 PEONY vOTUs encompass terrestrial, aquatic, and mammalian digestive ecosystems across five continents. Notably, 65% of vOTUs in PEONY originate from California, USA, where soils from various ecosystems (agricultural fields, grasslands, forests, wetlands, chaparral, and plant rhizospheres) have been routinely sampled by the Emerson Lab at the University of California, Davis and collaborators in recent years. This database provides a useful tool for studies of dsDNA bacteriophage diversity and environmental distributions. Researchers can use PEONY to compare viruses from individual studies to global distribution patterns.
 
-The databases (both PIGEON3.0 and PEONY) and associated metadata are available on Dryad (https://datadryad.org, DOI: 10.5061/dryad.prr4xgz35). Scripts for database curation and visualization are included here.
+The databases (both PIGEON3.0 and PEONY) and associated metadata are available on Dryad (https://datadryad.org, DOI: 10.5061/dryad.prr4xgz35). Scripts for database curation and visualization, and supplemental information regarding study inclusion criteria are included here.
 
  References:
 1.	Ma, B. et al. Biogeographic patterns and drivers of soil viromes. Nat. Ecol. Evol. 8, 717–728 (2024).
